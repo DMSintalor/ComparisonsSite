@@ -1,0 +1,1346 @@
+{
+  "jplag_version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "submission_folder_path": [
+    "fff"
+  ],
+  "base_code_folder_path": "",
+  "language": "Text Parser (naive)",
+  "file_extensions": [
+    ".TXT",
+    ".txt",
+    ".ASC",
+    ".asc",
+    ".TEX",
+    ".tex"
+  ],
+  "submission_id_to_display_name": {
+    "21新生赛-于瑞寒_E.txt": "21新生赛-于瑞寒_E.txt",
+    "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt",
+    "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt",
+    "hellow_E.txt": "hellow_E.txt",
+    "123456_E.txt": "123456_E.txt",
+    "21新生赛-孙志胤_E.txt": "21新生赛-孙志胤_E.txt",
+    "21新生赛-陆晨_E.txt": "21新生赛-陆晨_E.txt",
+    "21新生赛-黄天佑_E.txt": "21新生赛-黄天佑_E.txt",
+    "21新生赛-张智翔_E.txt": "21新生赛-张智翔_E.txt",
+    "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt",
+    "21新生赛-路士磊_E.txt": "21新生赛-路士磊_E.txt",
+    "glader_E.txt": "glader_E.txt",
+    "21新生赛-杨梦茹_E.txt": "21新生赛-杨梦茹_E.txt",
+    "21新生赛-周辰_E.txt": "21新生赛-周辰_E.txt",
+    "21新生赛-郭嘉昊_E.txt": "21新生赛-郭嘉昊_E.txt",
+    "21新生赛-林智超_E.txt": "21新生赛-林智超_E.txt",
+    "sys_hazu_E.txt": "sys_hazu_E.txt",
+    "21新生赛-王石_E.txt": "21新生赛-王石_E.txt",
+    "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt",
+    "21新生赛-李佳宁_E.txt": "21新生赛-李佳宁_E.txt",
+    "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt",
+    "21新生赛-付用鹏_E.txt": "21新生赛-付用鹏_E.txt",
+    "21新生赛-刘卫健_E.txt": "21新生赛-刘卫健_E.txt",
+    "yujia_E.txt": "yujia_E.txt",
+    "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt",
+    "21新生赛-王容杰_E.txt": "21新生赛-王容杰_E.txt"
+  },
+  "submission_ids_to_comparison_file_name": {
+    "21新生赛-郭嘉昊_E.txt": {
+      "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "21新生赛-孙志胤_E.txt": "21新生赛-孙志胤_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "21新生赛-李佳宁_E.txt": "21新生赛-郭嘉昊_E.txt-21新生赛-李佳宁_E.txt.json"
+    },
+    "21新生赛-于瑞寒_E.txt": {
+      "21新生赛-孙志胤_E.txt": "21新生赛-孙志胤_E.txt-21新生赛-于瑞寒_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-于瑞寒_E.txt.json"
+    },
+    "21新生赛-林智超_E.txt": {
+      "21新生赛-刘卫健_E.txt": "21新生赛-林智超_E.txt-21新生赛-刘卫健_E.txt.json",
+      "123456_E.txt": "21新生赛-林智超_E.txt-123456_E.txt.json",
+      "21新生赛-王容杰_E.txt": "21新生赛-林智超_E.txt-21新生赛-王容杰_E.txt.json",
+      "21新生赛-李佳宁_E.txt": "21新生赛-林智超_E.txt-21新生赛-李佳宁_E.txt.json"
+    },
+    "21新生赛-张钰陶_E.txt": {
+      "21新生赛-陆晨_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-陆晨_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-张兴琦_E.txt.json",
+      "hellow_E.txt": "21新生赛-张钰陶_E.txt-hellow_E.txt.json",
+      "123456_E.txt": "21新生赛-张钰陶_E.txt-123456_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-马镓辉_E.txt.json"
+    },
+    "21新生赛-张兴琦_E.txt": {
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-张兴琦_E.txt.json",
+      "sys_hazu_E.txt": "21新生赛-张兴琦_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-王石_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-王石_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-陆晨_E.txt": "21新生赛-陆晨_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-黄天佑_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-黄天佑_E.txt.json",
+      "21新生赛-张智翔_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-张兴琦_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt-21新生赛-张兴琦_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "sys_hazu_E.txt": {
+      "21新生赛-张智翔_E.txt": "21新生赛-张智翔_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "sys_hazu_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "sys_hazu_E.txt-21新生赛-付用鹏_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-sys_hazu_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-sys_hazu_E.txt.json"
+    },
+    "hellow_E.txt": {
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-hellow_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "hellow_E.txt-21新生赛-张兴琦_E.txt.json",
+      "sys_hazu_E.txt": "hellow_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-王石_E.txt": "hellow_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-hellow_E.txt.json",
+      "21新生赛-黄天佑_E.txt": "hellow_E.txt-21新生赛-黄天佑_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "hellow_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "hellow_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "hellow_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-hellow_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-hellow_E.txt.json",
+      "21新生赛-吴青原_E.txt": "hellow_E.txt-21新生赛-吴青原_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "hellow_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-王石_E.txt": {
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-王石_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-王石_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-王石_E.txt.json",
+      "123456_E.txt": "123456_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-王石_E.txt.json"
+    },
+    "123456_E.txt": {
+      "21新生赛-陆晨_E.txt": "21新生赛-陆晨_E.txt-123456_E.txt.json",
+      "21新生赛-林智超_E.txt": "21新生赛-林智超_E.txt-123456_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "123456_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-123456_E.txt.json",
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-123456_E.txt.json",
+      "21新生赛-王石_E.txt": "123456_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-王容杰_E.txt": "21新生赛-王容杰_E.txt-123456_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-123456_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-杨梦茹_E.txt-123456_E.txt.json",
+      "21新生赛-周辰_E.txt": "123456_E.txt-21新生赛-周辰_E.txt.json"
+    },
+    "21新生赛-马镓辉_E.txt": {
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-马镓辉_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-张兴琦_E.txt.json",
+      "hellow_E.txt": "21新生赛-马镓辉_E.txt-hellow_E.txt.json",
+      "123456_E.txt": "21新生赛-马镓辉_E.txt-123456_E.txt.json",
+      "21新生赛-陆晨_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-陆晨_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-马镓辉_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-马镓辉_E.txt.json",
+      "21新生赛-路士磊_E.txt": "21新生赛-路士磊_E.txt-21新生赛-马镓辉_E.txt.json",
+      "21新生赛-周辰_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-周辰_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-孙志胤_E.txt": {
+      "21新生赛-郭嘉昊_E.txt": "21新生赛-孙志胤_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "21新生赛-于瑞寒_E.txt": "21新生赛-孙志胤_E.txt-21新生赛-于瑞寒_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-孙志胤_E.txt.json"
+    },
+    "21新生赛-李佳宁_E.txt": {
+      "21新生赛-郭嘉昊_E.txt": "21新生赛-郭嘉昊_E.txt-21新生赛-李佳宁_E.txt.json",
+      "21新生赛-林智超_E.txt": "21新生赛-林智超_E.txt-21新生赛-李佳宁_E.txt.json",
+      "21新生赛-王容杰_E.txt": "21新生赛-王容杰_E.txt-21新生赛-李佳宁_E.txt.json"
+    },
+    "21新生赛-陆晨_E.txt": {
+      "21新生赛-张智翔_E.txt": "21新生赛-陆晨_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-陆晨_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-陆晨_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-陆晨_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-陆晨_E.txt-21新生赛-张兴琦_E.txt.json",
+      "123456_E.txt": "21新生赛-陆晨_E.txt-123456_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-陆晨_E.txt.json"
+    },
+    "21新生赛-黄天佑_E.txt": {
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-黄天佑_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-黄天佑_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-黄天佑_E.txt.json"
+    },
+    "21新生赛-张智翔_E.txt": {
+      "21新生赛-陆晨_E.txt": "21新生赛-陆晨_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-张智翔_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-张智翔_E.txt.json",
+      "sys_hazu_E.txt": "21新生赛-张智翔_E.txt-sys_hazu_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-张智翔_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-来孟阳_E.txt": {
+      "21新生赛-张钰陶_E.txt": "21新生赛-张钰陶_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-来孟阳_E.txt.json",
+      "sys_hazu_E.txt": "21新生赛-来孟阳_E.txt-sys_hazu_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-王石_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-王石_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-陆晨_E.txt": "21新生赛-陆晨_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-黄天佑_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-黄天佑_E.txt.json",
+      "21新生赛-张智翔_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-来孟阳_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt-21新生赛-来孟阳_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-付用鹏_E.txt": {
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "21新生赛-付用鹏_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-付用鹏_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-付用鹏_E.txt.json",
+      "sys_hazu_E.txt": "sys_hazu_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-王石_E.txt": "21新生赛-王石_E.txt-21新生赛-付用鹏_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-付用鹏_E.txt.json"
+    },
+    "21新生赛-刘卫健_E.txt": {
+      "21新生赛-林智超_E.txt": "21新生赛-林智超_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-付用鹏_E.txt-21新生赛-刘卫健_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-刘卫健_E.txt.json",
+      "sys_hazu_E.txt": "sys_hazu_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-刘卫健_E.txt.json",
+      "123456_E.txt": "123456_E.txt-21新生赛-刘卫健_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-王容杰_E.txt": "21新生赛-王容杰_E.txt-21新生赛-刘卫健_E.txt.json"
+    },
+    "21新生赛-张洋_E.txt": {
+      "21新生赛-来孟阳_E.txt": "21新生赛-张洋_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-张洋_E.txt-21新生赛-付用鹏_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-张洋_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-张洋_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-王石_E.txt": "21新生赛-张洋_E.txt-21新生赛-王石_E.txt.json",
+      "hellow_E.txt": "21新生赛-张洋_E.txt-hellow_E.txt.json",
+      "123456_E.txt": "21新生赛-张洋_E.txt-123456_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-张洋_E.txt-21新生赛-马镓辉_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-张洋_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-周辰_E.txt": "21新生赛-张洋_E.txt-21新生赛-周辰_E.txt.json"
+    },
+    "yujia_E.txt": {
+      "21新生赛-张兴琦_E.txt": "yujia_E.txt-21新生赛-张兴琦_E.txt.json",
+      "sys_hazu_E.txt": "yujia_E.txt-sys_hazu_E.txt.json",
+      "hellow_E.txt": "yujia_E.txt-hellow_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "yujia_E.txt-21新生赛-马镓辉_E.txt.json",
+      "21新生赛-陆晨_E.txt": "yujia_E.txt-21新生赛-陆晨_E.txt.json",
+      "21新生赛-张智翔_E.txt": "yujia_E.txt-21新生赛-张智翔_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "yujia_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "yujia_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "yujia_E.txt-21新生赛-刘卫健_E.txt.json",
+      "21新生赛-张洋_E.txt": "yujia_E.txt-21新生赛-张洋_E.txt.json",
+      "21新生赛-路士磊_E.txt": "21新生赛-路士磊_E.txt-yujia_E.txt.json",
+      "21新生赛-吴青原_E.txt": "yujia_E.txt-21新生赛-吴青原_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "yujia_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-路士磊_E.txt": {
+      "yujia_E.txt": "21新生赛-路士磊_E.txt-yujia_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-路士磊_E.txt-21新生赛-马镓辉_E.txt.json"
+    },
+    "21新生赛-吴青原_E.txt": {
+      "21新生赛-郭嘉昊_E.txt": "21新生赛-吴青原_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-吴青原_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-吴青原_E.txt-21新生赛-付用鹏_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-吴青原_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "21新生赛-吴青原_E.txt-21新生赛-张兴琦_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-吴青原_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-吴青原_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-吴青原_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-王容杰_E.txt": {
+      "21新生赛-林智超_E.txt": "21新生赛-林智超_E.txt-21新生赛-王容杰_E.txt.json",
+      "21新生赛-刘卫健_E.txt": "21新生赛-王容杰_E.txt-21新生赛-刘卫健_E.txt.json",
+      "123456_E.txt": "21新生赛-王容杰_E.txt-123456_E.txt.json",
+      "21新生赛-李佳宁_E.txt": "21新生赛-王容杰_E.txt-21新生赛-李佳宁_E.txt.json"
+    },
+    "glader_E.txt": {
+      "21新生赛-郭嘉昊_E.txt": "glader_E.txt-21新生赛-郭嘉昊_E.txt.json",
+      "21新生赛-于瑞寒_E.txt": "glader_E.txt-21新生赛-于瑞寒_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "glader_E.txt-21新生赛-来孟阳_E.txt.json",
+      "21新生赛-张兴琦_E.txt": "glader_E.txt-21新生赛-张兴琦_E.txt.json",
+      "21新生赛-吴青原_E.txt": "glader_E.txt-21新生赛-吴青原_E.txt.json",
+      "21新生赛-孙志胤_E.txt": "glader_E.txt-21新生赛-孙志胤_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "glader_E.txt-21新生赛-杨梦茹_E.txt.json"
+    },
+    "21新生赛-杨梦茹_E.txt": {
+      "21新生赛-张兴琦_E.txt": "21新生赛-张兴琦_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-王石_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-王石_E.txt.json",
+      "123456_E.txt": "21新生赛-杨梦茹_E.txt-123456_E.txt.json",
+      "hellow_E.txt": "hellow_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-张智翔_E.txt": "21新生赛-张智翔_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-来孟阳_E.txt": "21新生赛-来孟阳_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-付用鹏_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-付用鹏_E.txt.json",
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "yujia_E.txt": "yujia_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-吴青原_E.txt": "21新生赛-吴青原_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "glader_E.txt": "glader_E.txt-21新生赛-杨梦茹_E.txt.json",
+      "21新生赛-周辰_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-周辰_E.txt.json"
+    },
+    "21新生赛-周辰_E.txt": {
+      "21新生赛-张洋_E.txt": "21新生赛-张洋_E.txt-21新生赛-周辰_E.txt.json",
+      "123456_E.txt": "123456_E.txt-21新生赛-周辰_E.txt.json",
+      "21新生赛-马镓辉_E.txt": "21新生赛-马镓辉_E.txt-21新生赛-周辰_E.txt.json",
+      "21新生赛-杨梦茹_E.txt": "21新生赛-杨梦茹_E.txt-21新生赛-周辰_E.txt.json"
+    }
+  },
+  "failed_submission_names": [],
+  "excluded_files": [],
+  "match_sensitivity": 5,
+  "date_of_execution": "05/11/22",
+  "execution_time": 120,
+  "metrics": [
+    {
+      "name": "AVG",
+      "distribution": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        7,
+        23,
+        106,
+        238
+      ],
+      "topComparisons": [
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 1.0
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-王容杰_E.txt",
+          "similarity": 1.0
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.4
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.4
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.3761467889908257
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.3761467889908257
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.35537190082644626
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.35537190082644626
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.3333333333333333
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.314410480349345
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.312
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.2925170068027211
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.2925170068027211
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.2843601895734597
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.27615062761506276
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.27615062761506276
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.26495726495726496
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.25961538461538464
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.25742574257425743
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.25365853658536586
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.25339366515837103
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.25339366515837103
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-孙志胤_E.txt",
+          "similarity": 0.24870466321243523
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.24242424242424243
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.24242424242424243
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.23220973782771537
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.23220973782771537
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.22145328719723184
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.21621621621621623
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.21621621621621623
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.2125984251968504
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.2032520325203252
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.2032520325203252
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.20224719101123595
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.19811320754716982
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.1951219512195122
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.1951219512195122
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张洋_E.txt",
+          "similarity": 0.1890547263681592
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.1889763779527559
+        },
+        {
+          "first_submission": "21新生赛-孙志胤_E.txt",
+          "second_submission": "21新生赛-于瑞寒_E.txt",
+          "similarity": 0.1888412017167382
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.18723404255319148
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.18666666666666668
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.18340611353711792
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.18181818181818182
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.17886178861788618
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.176
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.17490494296577946
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.17490494296577946
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.1735159817351598
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.1717171717171717
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.17167381974248927
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.16774193548387098
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.16666666666666666
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.16585365853658537
+        },
+        {
+          "first_submission": "21新生赛-张智翔_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.1646090534979424
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.16260162601626016
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.16260162601626016
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.16113744075829384
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.16091954022988506
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.1559633027522936
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.15584415584415584
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.15498154981549817
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.15384615384615385
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.15384615384615385
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.15272727272727274
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.15139442231075698
+        },
+        {
+          "first_submission": "21新生赛-王石_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.1506849315068493
+        },
+        {
+          "first_submission": "21新生赛-孙志胤_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.1504424778761062
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.1494661921708185
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.14423076923076922
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.14035087719298245
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.14035087719298245
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.13733905579399142
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.13654618473895583
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.13654618473895583
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.13574660633484162
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.13574660633484162
+        },
+        {
+          "first_submission": "21新生赛-路士磊_E.txt",
+          "second_submission": "yujia_E.txt",
+          "similarity": 0.13471502590673576
+        },
+        {
+          "first_submission": "21新生赛-郭嘉昊_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.13438735177865613
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.1342281879194631
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.1342281879194631
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13274336283185842
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.13274336283185842
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-于瑞寒_E.txt",
+          "similarity": 0.1320754716981132
+        },
+        {
+          "first_submission": "21新生赛-路士磊_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.1319796954314721
+        },
+        {
+          "first_submission": "sys_hazu_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.13090909090909092
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13008130081300814
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13008130081300814
+        },
+        {
+          "first_submission": "21新生赛-张智翔_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.12955465587044535
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.12875536480686695
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.12875536480686695
+        },
+        {
+          "first_submission": "21新生赛-付用鹏_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.12844036697247707
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.12682926829268293
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.12682926829268293
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.12631578947368421
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.12440191387559808
+        },
+        {
+          "first_submission": "sys_hazu_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.12418300653594772
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.12307692307692308
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.12307692307692308
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.1223021582733813
+        }
+      ],
+      "description": "Average of both program coverages. This is the default similarity which works in most cases: Matches with a high average similarity indicate that the programs work in a very similar way."
+    },
+    {
+      "name": "MAX",
+      "distribution": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        4,
+        9,
+        25,
+        130,
+        208
+      ],
+      "topComparisons": [
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 1.0
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-王容杰_E.txt",
+          "similarity": 1.0
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.42452830188679247
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.42452830188679247
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.41414141414141414
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.41414141414141414
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.38235294117647056
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.3739130434782609
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.3739130434782609
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.37373737373737376
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.36134453781512604
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.36134453781512604
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.33962264150943394
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.30303030303030304
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.30097087378640774
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-孙志胤_E.txt",
+          "similarity": 0.27906976744186046
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.2773109243697479
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.2773109243697479
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.27450980392156865
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.27450980392156865
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.2647058823529412
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.26262626262626265
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.26262626262626265
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.2605042016806723
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.2605042016806723
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.25471698113207547
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.25
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.25
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.24427480916030533
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.23300970873786409
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.23300970873786409
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.21951219512195122
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.21568627450980393
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.21008403361344538
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.21008403361344538
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.20754716981132076
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.20588235294117646
+        },
+        {
+          "first_submission": "21新生赛-孙志胤_E.txt",
+          "second_submission": "21新生赛-于瑞寒_E.txt",
+          "similarity": 0.205607476635514
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.20388349514563106
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.20388349514563106
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.1984732824427481
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.19767441860465115
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.19767441860465115
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.19642857142857142
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.19607843137254902
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.19607843137254902
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.19607843137254902
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.1951219512195122
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.19327731092436976
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.19327731092436976
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.1926605504587156
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张洋_E.txt",
+          "similarity": 0.1919191919191919
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-张智翔_E.txt",
+          "similarity": 0.1919191919191919
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.1919191919191919
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.18446601941747573
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.18446601941747573
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.1834862385321101
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.17391304347826086
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.17391304347826086
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.1717171717171717
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.17073170731707318
+        },
+        {
+          "first_submission": "21新生赛-杨梦茹_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.17073170731707318
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.16981132075471697
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.16806722689075632
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.16806722689075632
+        },
+        {
+          "first_submission": "21新生赛-张智翔_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.16666666666666666
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.16666666666666666
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-于瑞寒_E.txt",
+          "similarity": 0.16279069767441862
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "21新生赛-陆晨_E.txt",
+          "similarity": 0.16161616161616163
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.16071428571428573
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-吴青原_E.txt",
+          "similarity": 0.16037735849056603
+        },
+        {
+          "first_submission": "123456_E.txt",
+          "second_submission": "21新生赛-王石_E.txt",
+          "similarity": 0.16030534351145037
+        },
+        {
+          "first_submission": "21新生赛-孙志胤_E.txt",
+          "second_submission": "21新生赛-郭嘉昊_E.txt",
+          "similarity": 0.1588785046728972
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "21新生赛-周辰_E.txt",
+          "similarity": 0.1568627450980392
+        },
+        {
+          "first_submission": "21新生赛-王石_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.1527777777777778
+        },
+        {
+          "first_submission": "yujia_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.15151515151515152
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.1511627906976744
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.1511627906976744
+        },
+        {
+          "first_submission": "glader_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.1511627906976744
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "21新生赛-黄天佑_E.txt",
+          "similarity": 0.1509433962264151
+        },
+        {
+          "first_submission": "sys_hazu_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.14960629921259844
+        },
+        {
+          "first_submission": "21新生赛-林智超_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.14782608695652175
+        },
+        {
+          "first_submission": "21新生赛-王容杰_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.14782608695652175
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "hellow_E.txt",
+          "similarity": 0.14705882352941177
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.14705882352941177
+        },
+        {
+          "first_submission": "21新生赛-张钰陶_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.14705882352941177
+        },
+        {
+          "first_submission": "21新生赛-张洋_E.txt",
+          "second_submission": "123456_E.txt",
+          "similarity": 0.14705882352941177
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-张兴琦_E.txt",
+          "similarity": 0.14678899082568808
+        },
+        {
+          "first_submission": "21新生赛-陆晨_E.txt",
+          "second_submission": "21新生赛-来孟阳_E.txt",
+          "similarity": 0.14678899082568808
+        },
+        {
+          "first_submission": "21新生赛-马镓辉_E.txt",
+          "second_submission": "21新生赛-杨梦茹_E.txt",
+          "similarity": 0.14563106796116504
+        },
+        {
+          "first_submission": "21新生赛-郭嘉昊_E.txt",
+          "second_submission": "21新生赛-李佳宁_E.txt",
+          "similarity": 0.14285714285714285
+        },
+        {
+          "first_submission": "21新生赛-吴青原_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.14285714285714285
+        },
+        {
+          "first_submission": "21新生赛-付用鹏_E.txt",
+          "second_submission": "21新生赛-刘卫健_E.txt",
+          "similarity": 0.14189189189189189
+        },
+        {
+          "first_submission": "sys_hazu_E.txt",
+          "second_submission": "21新生赛-付用鹏_E.txt",
+          "similarity": 0.14173228346456693
+        },
+        {
+          "first_submission": "hellow_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.14150943396226415
+        },
+        {
+          "first_submission": "21新生赛-路士磊_E.txt",
+          "second_submission": "yujia_E.txt",
+          "similarity": 0.13829787234042554
+        },
+        {
+          "first_submission": "21新生赛-路士磊_E.txt",
+          "second_submission": "21新生赛-马镓辉_E.txt",
+          "similarity": 0.13829787234042554
+        },
+        {
+          "first_submission": "21新生赛-张兴琦_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13445378151260504
+        },
+        {
+          "first_submission": "21新生赛-来孟阳_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13445378151260504
+        },
+        {
+          "first_submission": "21新生赛-张智翔_E.txt",
+          "second_submission": "sys_hazu_E.txt",
+          "similarity": 0.13333333333333333
+        }
+      ],
+      "description": "Maximum of both program coverages. This ranking is especially useful if the programs are very different in size. This can happen when dead code was inserted to disguise the origin of the plagiarized program."
+    }
+  ],
+  "clusters": []
+}

@@ -1,0 +1,64 @@
+#include<iostream>
+#include<algorithm>
+#include<string>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+int main()
+{
+    int n,m;
+    cin>>n>>m;
+    string a,b;
+    cin>>a>>b;
+    int sum[555]={0};
+    int sum2[555]={0};
+    for(int i=0;i<n;i++)
+    {
+        sum[a[i]]++;
+    }
+    for(int i=0;i<m;i++)
+    {
+        sum2[b[i]]++;
+    }
+    int max1=0;
+    double p[200]={0};
+    int q[200]={0};
+    for(int i=0;i<200;i++)
+    {
+        if(sum[i]!=0||sum2[i]!=0)
+        {
+            p[i]=sum[i]/(double)sum2[i];
+            for(int s=0;s<100;s++)
+            {
+                if(s==p[i])
+                {
+                    q[i]=p[i];
+                    break;
+                }
+                if(s>p[i])
+                {
+                    q[i]=s;
+                    break;
+                }
+            }
+        }
+    }
+    for(int i=0;i<200;i++)
+    {
+        if(q[i]>max1)
+        {
+            max1=q[i];
+        }
+    }
+    for(int i=0;i<n;i++)
+    {
+        int g=a[i];
+        if(q[g]==0)
+        {
+            cout<<"-1";
+            return 0;
+        }
+    }
+    cout<<max1;
+    return 0;
+}
